@@ -4,3 +4,13 @@ The project is still in the early development stage and more content is still be
 
 ## Development tools and versions
 QT 5.14.2
+
+## How to use?
+1. clone this reposity to your local host
+
+```
+git clone git@github.com:Echo-b/IsplCodeGen.git
+```
+
+2.  configuire this project with Qt Createor
+
